@@ -1,3 +1,12 @@
-<h1 align="center">Hi 👋, I'm Max</h1>
-<h3 align="center">A passionate developer from Germany</h3>
+# Hi, I'm Max
+### A developer from Germany
 
+- I’m currently working on [Atoll](https://github.com/MaxS607/Atoll)
+
+- I’m currently learning **rust**
+
+|Languages:|
+|--|
+|Rust|
+|C|
+|Python|
